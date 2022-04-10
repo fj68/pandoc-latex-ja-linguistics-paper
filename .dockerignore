@@ -1,0 +1,6 @@
+publish/
+*.md
+*.sh
+.gitignore
+.git/
+
